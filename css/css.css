@@ -1,0 +1,39 @@
+body {
+
+    height: 100vh;
+    width: 90%;
+    background-image: url(../img/renovable.jpg);
+    margin-top: 50px;
+    margin-left: 50%;
+
+}
+
+body>#d {
+
+    height: 50%;
+    width: 40%;
+    border: solid 5px rgb(148, 41, 41);
+    padding: 10px;
+    margin-bottom: 15px;
+
+}
+
+label,
+input {
+
+    display: block;
+    color: rgb(0, 0, 0, );
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 15px;
+
+}
+
+button {
+
+    display: block;
+    border-radius: 6px;
+    width: 70px;
+    margin: 0 auto;
+
+}
